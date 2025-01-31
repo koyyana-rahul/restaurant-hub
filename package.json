@@ -1,0 +1,26 @@
+{
+  "name": "restaurant_hub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koyyana-rahul/restaurant-hub.git"
+  },
+  "author": "rahul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koyyana-rahul/restaurant-hub/issues"
+  },
+  "homepage": "https://github.com/koyyana-rahul/restaurant-hub#readme",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
